@@ -1,3 +1,4 @@
+
 # Function to calculate the number of snacks one can consume before the inevitable deadline
 def calculate_snacks(time_until_deadline, snack_speed):
     # Let’s be honest here, if you can’t eat at least one snack per minute, we need to re-evaluate life choices
